@@ -4,4 +4,5 @@ This Project is built using MapReduce and Linux scripting. The Project aims to a
 Working of the project
 So the project is based on mapreduce and a txt file is used for the input text.
 Then  linux is used for activating Datanode of hadoop and input data is given to the function.
-The java program is used to actiavte the mapreduce feature 
+The java program is used to actiavte the mapreduce feature.
+Then the linux commands are used to run the program which gives an output in form of txt file.
