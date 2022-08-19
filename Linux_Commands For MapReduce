@@ -1,0 +1,8 @@
+ls ⇒ directory listing.
+ls -al ⇒ formatted listing with hidden files.
+cd dir ⇒ change directory to dir.
+cd ⇒ change to home.
+pwd ⇒ shows current directory.
+mkdir dir ⇒ create a directory dir.
+rm file ⇒ delete the file.
+rm -r dir ⇒ delete directory dir.
